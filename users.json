@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"4.9.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"hestia_20_marketing"},
+{"type":"table","name":"users","database":"hestia_20_marketing","data":
+[
+{"email":"thameemk612@ieee.org"},
+{"email":"thameem@studentpartner.com"},
+{"email":"milanshah1@gmail.com"},
+{"email":"thameemk612@outlook.com"}
+]
+}
+]
